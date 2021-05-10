@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 import pyttsx3
 import wikipedia
 import speech_recognition as sr
